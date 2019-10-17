@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Auth-Friends/static/css/main.e76c0208.chunk.css",
+    "main.js": "/Auth-Friends/static/js/main.002b8018.chunk.js",
+    "main.js.map": "/Auth-Friends/static/js/main.002b8018.chunk.js.map",
+    "runtime-main.js": "/Auth-Friends/static/js/runtime-main.d094f278.js",
+    "runtime-main.js.map": "/Auth-Friends/static/js/runtime-main.d094f278.js.map",
+    "static/js/2.1f181776.chunk.js": "/Auth-Friends/static/js/2.1f181776.chunk.js",
+    "static/js/2.1f181776.chunk.js.map": "/Auth-Friends/static/js/2.1f181776.chunk.js.map",
+    "index.html": "/Auth-Friends/index.html",
+    "precache-manifest.ac2f5b876ec1811fa105e2413c2332f4.js": "/Auth-Friends/precache-manifest.ac2f5b876ec1811fa105e2413c2332f4.js",
+    "service-worker.js": "/Auth-Friends/service-worker.js",
+    "static/css/main.e76c0208.chunk.css.map": "/Auth-Friends/static/css/main.e76c0208.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d094f278.js",
+    "static/js/2.1f181776.chunk.js",
+    "static/css/main.e76c0208.chunk.css",
+    "static/js/main.002b8018.chunk.js"
+  ]
+}

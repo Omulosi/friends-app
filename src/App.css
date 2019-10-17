@@ -1,0 +1,26 @@
+
+.form-data {
+  width: 40%;
+  background: #f0f0f0;
+  padding: 2em;
+  margin: 0 auto;
+}
+
+.login-header {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.9em;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+}
+.nav-item > span {
+  cursor: pointer;
+}
+
+.icon {
+  cursor: pointer;
+}
